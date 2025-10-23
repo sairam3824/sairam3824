@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saiii.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairam-maruri/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.maruri@gmail.com)
 
@@ -112,17 +112,17 @@ I'm a **Computer Science Engineering student** at VIT-AP with a passion for **AI
 - Built dynamic quiz platform with user authentication
 - **Tech**: Web Development, Backend APIs
 
-## 📈 GitHub Stats
 
-<div align="center">
-  
+
+<!-- <div align="center">
+  ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairam3824&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairam3824&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sairam3824&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sairam3824&theme=radical&hide_border=true) -->
 
-</div>
+<!-- </div> -->
 
 ## 🎓 Certifications
 
@@ -133,27 +133,19 @@ I'm a **Computer Science Engineering student** at VIT-AP with a passion for **AI
 - 📚 **Meta: Introduction to Databases** (Coursera)
 - 🧠 **IBM: Machine Learning with Python** (Coursera)
 
-## 💼 Experience
-
-**Administrator** | Photon Club, VITAP University  
-*Feb 2024 – Apr 2025*
-- Led team to execute major university events with strategic collaboration
-- Achieved **15% membership growth** through targeted outreach initiatives
-
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on AI/ML projects, cloud-native applications, or discussing system design. Feel free to reach out!
 
 - 📧 Email: sairam.maruri@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/sairam-maruri](https://linkedin.com/in/sairam-maruri/)
-- 🌐 Portfolio: [Your Portfolio Link]
+- 🌐 Portfolio: [saiii.in](https://saiii.in)
 
 ---
 
 <div align="center">
 
 ### 💡 "Building intelligent systems that make a difference"
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sairam3824.sairam3824)
+### Learn Always, Build Always
 
 </div>

@@ -27,8 +27,8 @@ class AIEngineer:
         self.location = "Andhra Pradesh, India"
         self.experience = "3 years"
         self.problem_solving = {
-            "leetcode": "750+",
-            "codechef": "450+",
+            "leetcode": "800+",
+            "codechef": "500+",
             "rating": "1500+ (2⭐)"
         }
         self.current_focus = ["GenAI", "RAG Systems", "Cloud Architecture", "LLMs"]
@@ -312,7 +312,7 @@ class AIEngineer:
 
 ## 💡 Fun Facts
 
-- 🧩 Solved 750+ LeetCode problems and 450+ CodeChef problems
+- 🧩 Solved 800+ LeetCode problems and 500+ CodeChef problems
 - ⭐ 2-Star Coder on CodeChef with 1500+ rating
 - 🏆 Love solving complex system design and algorithmic challenges
 - 📚 Passionate about teaching AI/ML concepts to peers

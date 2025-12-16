@@ -28,7 +28,7 @@ class AIEngineer:
         self.experience = "3 years"
         self.problem_solving = {
             "codechef rating": "1600+ (3⭐)",
-            "leetcode rating": "2000+",
+            "leetcode rating": "2300+",
             "DSA problems": "1000+"
         }
         self.current_focus = ["GenAI", "RAG Systems", "Cloud Architecture", "LLMs"]

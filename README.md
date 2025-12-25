@@ -314,7 +314,7 @@ class AIEngineer:
 
 - 🧩 Solved 800+ LeetCode problems and 500+ CodeChef problems
 - ⭐ 3-Star Coder on CodeChef with 1600+ rating
-- 🔥 2000+ leetcode rating
+- 🔥 2400+ leetcode rating
 - 🏆 Love solving complex system design and algorithmic challenges
 - 📚 Passionate about teaching AI/ML concepts to peers
 - ⚡ Can debug production issues at 3 AM (happened more than once!)

@@ -296,6 +296,7 @@ class AIEngineer:
 
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 **Oracle Generative AI Professional**
+- 🤖 **Oracle Vector AI Search**
 - 📊 **Microsoft Azure Data Fundamentals**
 - 🏗️ **AWS Academy: Cloud Foundations & Architecting**
 - 📚 **Meta: Introduction to Databases** (Coursera)
@@ -344,49 +345,4 @@ I'm always interested in collaborating on innovative AI/ML projects, cloud-nativ
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -21,7 +21,7 @@ I also bring hands-on experience with **Amazon Web Services (AWS)**, enabling me
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Sai Rama Linga Reddy"
+        self.name = "Sai Rama Linga Reddy Maruri"
         self.role = "AI Engineer & Full-Stack Developer"
         self.university = "VIT-AP"
         self.location = "Andhra Pradesh, India"

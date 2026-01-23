@@ -12,12 +12,20 @@
 
 ## 🚀 About Me
 
-I’m a dedicated **DSA and problem-solving enthusiast** with **1,000+ problems solved**, holding the **Guardian badge on LeetCode with a rating of 2400+**, and a **3★ rating (1600+) on CodeChef**. This consistent practice in data structures and algorithms has strengthened my ability to design **efficient, scalable, and reliable solutions**—skills I actively apply to **real-world engineering and AI challenges**.
+**I am a GenAI & ML Engineer** with a strong foundation in **data structures, algorithms, and scalable system design**, backed by solving **1,000+ problems**, earning the **LeetCode Guardian badge (2500+ rating)** and a **3★ CodeChef rating (1600+)**.This discipline has shaped my ability to build **efficient, reliable, and production-grade AI and cloud systems**.
 
-My core interests include **Artificial Intelligence, Machine Learning, AI Agents, and Generative AI**, with a growing proficiency in **Large Language Models (LLMs)** and their applications. I actively explore **model architectures, optimization strategies**, and stay updated with the **latest advancements across AI and data science**.
+My core expertise lies in **Artificial Intelligence, Machine Learning, AI Agents, and Generative AI**, with hands-on experience designing **LLM-powered applications, RAG pipelines, vector-database search systems, and agentic workflows**. I actively work on **SaaS-grade optimization, production-ready GenAI systems**, and **scalable cloud-based AI pipelines**.
 
-I also bring hands-on experience with **Amazon Web Services (AWS)**, enabling me to design and deploy **scalable, secure, and cost-efficient data pipelines and AI/ML workflows**. For me, it’s not just about using powerful tools—it's about **understanding them deeply** and **building solutions that truly make an impact.**
+I specialize in building **cloud-native GenAI systems on AWS**, deploying **secure, cost-efficient, and scalable AI/ML pipelines** — from **experimentation to production**.
 
+I work extensively with **modern AI developer tooling including Cursor AI, Claude Code, Codex, VS Code, Kiro, Surf, Antigravity, and Rovo Dev** to design **high-performance, agent-driven applications**.
+
+For me, it’s not just about using powerful tools — it’s about **engineering intelligent systems that solve real-world problems at scale**.
+
+🔗 Portfolio: https://saiii.in
+🔗 GitHub: https://github.com/sairam3824
+
+**Learn always. Build always.**
 ```python
 class AIEngineer:
     def __init__(self):
@@ -28,16 +36,16 @@ class AIEngineer:
         self.experience = "3 years"
         self.problem_solving = {
             "codechef rating": "1600+ (3⭐)",
-            "leetcode rating": "2400+",
+            "leetcode rating": "2500+",
             "DSA problems": "1000+"
         }
         self.current_focus = ["GenAI", "RAG Systems", "Cloud Architecture", "LLMs"]
         
     def currently_working_on(self):
         return {
-            "project": "Modular Django AI Platform",
-            "live_at": "orravyn.cloud",
-            "impact": "Serving 15+ researchers with AI-powered workflows"
+            "project": "System Design Interview Platform",
+            "live_at": "",
+            "impact": "Enables engineers to practice and master real-world system design problems through interview-oriented scenarios"
         }
     
     def achievements(self):
@@ -50,7 +58,7 @@ class AIEngineer:
 ```
 
 ### 🎯 Quick Highlights
-- 🔭 **Currently Building**: Production AI Platform at [orravyn.cloud](https://orravyn.cloud)
+- 🔭 **Currently Building**: Production System Design Interview Platform
 - 🌱 **Expertise**: GenAI, RAG Systems, LLMs (GPT, Claude, Gemini), Cloud Architecture, System Design
 - 💼 **Certifications**: AWS Cloud Practitioner | Oracle GenAI Professional | Azure Data Fundamentals
 - 🏆 **Impact**: 30% latency reduction | 45% search efficiency boost | 99% ML model accuracy

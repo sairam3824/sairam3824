@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Rama Linga Reddy Maruri👋
+# Hi there, I'm Sai Rama Linga Reddy Maruri 👋
 
 <div align="center">
 
@@ -11,40 +11,51 @@
 
 ## 🚀 About Me
 
-**I am a GenAI & ML Engineer** and final-year B.Tech Computer Science student at **VIT-AP (Class of 2026)**, with a strong foundation in **data structures, algorithms, and scalable system design** — backed by solving **1,000+ problems**, earning the **LeetCode Guardian badge (2400+ rating)** and a **3★ CodeChef rating (1600+)**. This discipline has shaped my ability to build **efficient, reliable, and production-grade AI and cloud systems**.
+**I'm a GenAI & ML Engineer who builds at the intersection of AI systems and business impact.**
 
-My core expertise lies in **Artificial Intelligence, Machine Learning, AI Agents, and Generative AI**, with hands-on experience designing **LLM-powered applications, RAG pipelines, vector-database search systems, and agentic workflows**. Beyond building *with* LLMs, I build the **systems around LLMs** — eval harnesses, LLM gateways, observability platforms, and a vector database from scratch.
+I recently completed my **B.Tech in Computer Science at VIT-AP (Class of 2026)** and am now pursuing an **MBA in Business Analytics at BITS Pilani** alongside an **MSc in Data Science at IIIT Hyderabad** — engineering depth on one side, decision science on the other.
 
-I'm a **published researcher**: my paper on the **Orravyn Research Platform with LLM** was presented at **ICISML 2026** (Scopus-indexed, AIP Conference Proceedings).
+My foundation is built on **data structures, algorithms, and scalable system design** — **1,000+ problems solved**, **LeetCode Guardian badge (2400+ rating)**, and a **3★ CodeChef rating (1600+)**. That discipline shapes how I build: **efficient, reliable, production-grade AI systems**.
 
-I specialize in building **cloud-native GenAI systems on AWS**, deploying **secure, cost-efficient, and scalable AI/ML pipelines** — from **experimentation to production** — and I work extensively with **modern AI developer tooling including Claude Code, Cursor AI, Codex, VS Code, Kiro, Surf, Antigravity, and Rovo Dev** to design **high-performance, agent-driven applications**.
+My core expertise spans **Generative AI, LLM-powered applications, RAG pipelines, vector-database search, and agentic workflows**. Beyond building *with* LLMs, I build the **systems around LLMs** — eval harnesses, LLM gateways, observability platforms, and a vector database from scratch.
 
-🎯 **Currently open to GenAI Engineer, ML Engineer, and Software Developer roles.**
+I'm a **published researcher**: my paper on the **Orravyn Research Platform with LLM** was presented at **ICISML 2026** (Scopus-indexed, AIP Conference Proceedings), with the **Advanced Orravyn Research Platform** targeting a top-tier NLP venue next.
+
+I specialize in **cloud-native GenAI systems on AWS**, deploying **secure, cost-efficient, scalable AI/ML pipelines** from experimentation to production, and work extensively with **modern AI developer tooling — Claude Code, Cursor AI, Codex, VS Code, Kiro, Surf, Antigravity, and Rovo Dev** — to design high-performance, agent-driven applications.
+
 
 🔗 Portfolio: https://saiii.in
-🔗 GitHub: https://github.com/sairam3824 (59+ repositories)
+🔗 GitHub: https://github.com/sairam3824 
 
 **Learn always. Build always.**
+
 ```python
 class AIEngineer:
     def __init__(self):
         self.name = "Sai Rama Linga Reddy Maruri"
-        self.role = "GenAI & ML Engineer | Final-year B.Tech CS @ VIT-AP (2026)"
+        self.role = "GenAI & ML Engineer | B.Tech CS, VIT-AP (2026)"
+        self.now = [
+            "MBA Business Analytics @ BITS Pilani",
+            "MSc Data Science @ IIIT Hyderabad",
+        ]
         self.location = "Andhra Pradesh, India"
         self.open_to = ["GenAI Engineer", "ML Engineer", "Software Developer"]
         self.problem_solving = {
             "leetcode": "Guardian badge, 2400+ rating",
             "codechef": "1600+ (3⭐)",
-            "DSA problems": "1000+"
+            "DSA problems": "1000+",
         }
         self.research = "Orravyn Research Platform with LLM — ICISML 2026 (Scopus-indexed)"
-        self.current_focus = ["LLMOps", "RAG Systems", "AI Agents", "Cloud Architecture"]
+        self.current_focus = [
+            "LLMOps", "RAG Systems", "AI Agents",
+            "Business Analytics", "Cloud Architecture",
+        ]
 
     def currently_working_on(self):
         return {
             "project": "Advanced Orravyn Research Platform",
             "repo": "github.com/sairam3824/advanced-orravyn-research-platform",
-            "goal": "Targeting a top-tier NLP venue (EMNLP 2026 Findings / COLING 2026)"
+            "goal": "Targeting a top-tier NLP venue (EMNLP 2026 Findings / COLING 2026)",
         }
 
     def achievements(self):
@@ -53,14 +64,15 @@ class AIEngineer:
             "🎯 Reduced AI pipeline latency by 30%",
             "⚡ Improved search efficiency by 45%",
             "🤖 Indexed 100+ research papers with vector DBs",
-            "🏅 4x Anthropic Academy certified + AWS, Oracle, Azure, IBM"
+            "🏅 4x Anthropic Academy certified + AWS, Oracle, Azure, IBM",
         ]
 ```
 
 ### 🎯 Quick Highlights
 - 🔭 **Currently Building**: Advanced Orravyn Research Platform (targeting EMNLP 2026 Findings / COLING 2026)
 - 📄 **Published Research**: Orravyn Research Platform with LLM — ICISML 2026, Scopus-indexed AIP Conference Proceedings
-- 🌱 **Expertise**: GenAI, RAG Systems, LLMOps, AI Agents, LLMs (GPT, Claude, Gemini), Cloud Architecture, System Design
+- 🎓 **Dual Postgrad Track**: MBA Business Analytics (BITS Pilani) + MSc Data Science (IIIT Hyderabad)
+- 🌱 **Expertise**: GenAI, RAG Systems, LLMOps, AI Agents, LLMs (GPT, Claude, Gemini), Business Analytics, Cloud Architecture, System Design
 - 💼 **Certifications**: 4x Anthropic Academy | AWS Cloud Practitioner | Oracle GenAI Professional | Azure Data Fundamentals | IBM ML
 - 🏆 **Impact**: 30% latency reduction | 45% search efficiency boost | 92% medical imaging accuracy
 - 📚 **Philosophy**: *Learn Always, Build Always*
@@ -68,7 +80,7 @@ class AIEngineer:
 ## 📄 Research & Publications
 
 - **Orravyn Research Platform with LLM** — presented at **ICISML 2026**, published in Scopus-indexed **AIP Conference Proceedings**
-- **Multi-Hazard Satellite Imagery Classification** — CNN/transformer architectures with Grad-CAM explainability (journal submission in progress)
+- **Multi-Hazard Diaster Classification** — CNN/transformer architectures with Grad-CAM explainability (journal submission in progress)
 - 🎯 Next target: **Advanced Orravyn Research Platform** → EMNLP 2026 Findings / COLING 2026
 
 ## 🛠️ Tech Stack
@@ -107,6 +119,7 @@ class AIEngineer:
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -115,6 +128,7 @@ class AIEngineer:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -146,7 +160,6 @@ class AIEngineer:
 </td>
 </tr>
 </table>
-
 
 ## 🏆 Featured Projects
 
@@ -196,6 +209,22 @@ class AIEngineer:
 </details>
 
 <details>
+<summary><b>📊 Business Analytics & Decision Science</b></summary>
+<br>
+
+Where my MBA (Business Analytics) meets my engineering background — data science systems built around real business decisions:
+
+- 📉 **ChurnLens** — customer churn prediction and retention-driver analysis for subscription businesses
+- 📈 **ForecastForge** — time-series demand forecasting with business-facing scenario planning
+- 🧪 **ExperiMint** — A/B testing and experimentation platform with statistical rigor baked in
+- 🎯 **SegmentIQ** — customer segmentation and lifetime-value modeling for targeted strategy
+- 🛡️ **DataSentry** — data quality monitoring and anomaly detection for analytics pipelines
+
+*The theme: not just models, but the decisions they drive.*
+
+</details>
+
+<details>
 <summary><b>⚙️ LLMOps & ML Systems (Built the systems *around* LLMs)</b></summary>
 <br>
 
@@ -213,6 +242,18 @@ A dedicated portfolio batch focused on ML-systems depth — the infrastructure l
 - 💰 **VAULT** — personal finance dashboard (Replit × Plaid showcase)
 
 *Explore all 59+ repos at [github.com/sairam3824](https://github.com/sairam3824?tab=repositories)*
+
+</details>
+
+<details>
+<summary><b>🔐 AI Security & LLM Safety</b></summary>
+<br>
+
+Exploring the security layer of GenAI systems — how LLM applications break, leak, and get attacked:
+
+- 🎯 **RedProbe** — red-teaming toolkit for probing LLM application vulnerabilities
+- 🛡️ **RAGGuard** — security hardening and injection defense for RAG pipelines
+- 🔍 **LeakScan** — sensitive-data leakage detection for LLM inputs and outputs
 
 </details>
 
@@ -269,7 +310,7 @@ A dedicated portfolio batch focused on ML-systems depth — the infrastructure l
 ### [LangChain LLM PET App](https://github.com/sairam3824/Langchain-LLM-PET-app)
 **Conversational AI Application**
 
-**Tech Stack**: LangChain, Python, OpenAI API, Streamlit
+**Tech Stack**: LangChain, Python, OpenAI API
 
 ### [Integrated AI Text Assistant](https://github.com/sairam3824/Integrated-AI-Text-Assistant)
 **Multi-Purpose NLP Assistant**
@@ -308,7 +349,12 @@ A dedicated portfolio batch focused on ML-systems depth — the infrastructure l
 
 </details>
 
-## 🎓 Certifications
+## 🎓 Education & Certifications
+
+### 🎓 Education
+- 📊 **MBA, Business Analytics** — BITS Pilani *(2026–present)*
+- 🔬 **MSc, Data Science** — IIIT Hyderabad *(2026–present)*
+- 💻 **B.Tech, Computer Science** — VIT-AP *(Class of 2026)*
 
 ### 🤖 Anthropic Academy (4x Certified)
 - 🏗️ **Building with the Claude API**
@@ -326,12 +372,14 @@ A dedicated portfolio batch focused on ML-systems depth — the infrastructure l
 - 🧠 **IBM: Machine Learning with Python** (Coursera)
 
 ## 🎯 What I'm Currently Learning
-
-- 🔥 Advanced LLM fine-tuning techniques (LoRA, QLoRA)
-- 🤖 Multi-agent AI systems and orchestration
-- 📐 Linear algebra & mathematical foundations for ML (MSc Data Science @ IIIT Hyderabad)
-- ☁️ Kubernetes and container orchestration at scale
-- 🏗️ System design for high-scale applications
+ 
+*Engineering built the systems. Now I'm learning to drive the decisions behind them.*
+ 
+- 📊 **Business Analytics & Strategy** — decision science, experimentation design, and translating models into business outcomes (MBA @ BITS Pilani)
+- 📉 **Applied Statistics & Data Science** — statistical inference, predictive modeling, and the mathematical foundations behind ML (MSc Data Science @ IIIT Hyderabad)
+- 💼 **Analytics Consulting Mindset** — framing business problems as data problems: churn, forecasting, segmentation, A/B testing
+- 📈 **BI & Data Storytelling** — Tableau, Power BI, and communicating insights to non-technical stakeholders
+- 🤖 **GenAI for Business** — where LLM systems create measurable ROI, not just impressive demos
 
 ## 💡 Fun Facts
 
@@ -339,6 +387,7 @@ A dedicated portfolio batch focused on ML-systems depth — the infrastructure l
 - 🛡️ LeetCode **Guardian badge** with a **2400+ rating**
 - ⭐ 3-Star Coder on CodeChef with 1600+ rating
 - 📄 Published researcher before graduating — ICISML 2026
+- 🎓 Doing an MBA and an MSc *at the same time* (yes, really)
 - 🏆 Love solving complex system design and algorithmic challenges
 - 📚 Passionate about teaching AI/ML concepts to peers
 - ⚡ Can debug production issues at 3 AM (happened more than once!)
@@ -347,7 +396,7 @@ A dedicated portfolio batch focused on ML-systems depth — the infrastructure l
 
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on innovative AI/ML projects, cloud-native applications, or discussing system design patterns. **Currently open to GenAI Engineer, ML Engineer, and Software Developer roles** — feel free to reach out!
+I'm always interested in collaborating on innovative AI/ML projects, analytics-driven products, or discussing system design patterns. 
 
 <div align="center">
 
@@ -362,7 +411,7 @@ I'm always interested in collaborating on innovative AI/ML projects, cloud-nativ
 
 <div align="center">
 
-### 💡 *"Building intelligent systems that make a difference"*
+### 💡 *"Building intelligent systems that turn data into decisions, decisions into business impact — and impact into better lives"*
 ### 🚀 *Learn Always, Build Always*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

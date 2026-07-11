@@ -13,7 +13,7 @@
 
 **I'm a GenAI & ML Engineer who builds at the intersection of AI systems and business impact.**
 
-I recently completed my **B.Tech in Computer Science at VIT-AP (Class of 2026)** and am now pursuing an **MBA in Business Analytics at BITS Pilani** alongside an **MSc in Data Science at IIIT Hyderabad** — engineering depth on one side, decision science on the other.
+I recently completed my **B.Tech in Computer Science at VIT-AP (Class of 2026)** and am now pursuing an **MBA in Business Analytics at BITS Pilani** alongside an **MS in Data Science at IIIT Hyderabad** — engineering depth on one side, decision science on the other.
 
 My foundation is built on **data structures, algorithms, and scalable system design** — **1,000+ problems solved**, **LeetCode Guardian badge (2400+ rating)**, and a **3★ CodeChef rating (1600+)**. That discipline shapes how I build: **efficient, reliable, production-grade AI systems**.
 
@@ -36,7 +36,7 @@ class AIEngineer:
         self.role = "GenAI & ML Engineer | B.Tech CS, VIT-AP (2026)"
         self.now = [
             "MBA Business Analytics @ BITS Pilani",
-            "MSc Data Science @ IIIT Hyderabad",
+            "MS Data Science @ IIIT Hyderabad",
         ]
         self.location = "Andhra Pradesh, India"
         self.open_to = ["GenAI Engineer", "ML Engineer", "Software Developer"]
@@ -71,7 +71,7 @@ class AIEngineer:
 ### 🎯 Quick Highlights
 - 🔭 **Currently Building**: Advanced Orravyn Research Platform (targeting EMNLP 2026 Findings / COLING 2026)
 - 📄 **Published Research**: Orravyn Research Platform with LLM — ICISML 2026, Scopus-indexed AIP Conference Proceedings
-- 🎓 **Dual Postgrad Track**: MBA Business Analytics (BITS Pilani) + MSc Data Science (IIIT Hyderabad)
+- 🎓 **Dual Postgrad Track**: MBA Business Analytics (BITS Pilani) + MS Data Science (IIIT Hyderabad)
 - 🌱 **Expertise**: GenAI, RAG Systems, LLMOps, AI Agents, LLMs (GPT, Claude, Gemini), Business Analytics, Cloud Architecture, System Design
 - 💼 **Certifications**: 4x Anthropic Academy | AWS Cloud Practitioner | Oracle GenAI Professional | Azure Data Fundamentals | IBM ML
 - 🏆 **Impact**: 30% latency reduction | 45% search efficiency boost | 92% medical imaging accuracy
@@ -353,7 +353,7 @@ Exploring the security layer of GenAI systems — how LLM applications break, le
 
 ### 🎓 Education
 - 📊 **MBA, Business Analytics** — BITS Pilani *(2026–present)*
-- 🔬 **MSc, Data Science** — IIIT Hyderabad *(2026–present)*
+- 🔬 **MS, Data Science** — IIIT Hyderabad *(2026–present)*
 - 💻 **B.Tech, Computer Science** — VIT-AP *(Class of 2026)*
 
 ### 🤖 Anthropic Academy (4x Certified)
@@ -376,7 +376,7 @@ Exploring the security layer of GenAI systems — how LLM applications break, le
 *Engineering built the systems. Now I'm learning to drive the decisions behind them.*
  
 - 📊 **Business Analytics & Strategy** — decision science, experimentation design, and translating models into business outcomes (MBA @ BITS Pilani)
-- 📉 **Applied Statistics & Data Science** — statistical inference, predictive modeling, and the mathematical foundations behind ML (MSc Data Science @ IIIT Hyderabad)
+- 📉 **Applied Statistics & Data Science** — statistical inference, predictive modeling, and the mathematical foundations behind ML (MS Data Science @ IIIT Hyderabad)
 - 💼 **Analytics Consulting Mindset** — framing business problems as data problems: churn, forecasting, segmentation, A/B testing
 - 📈 **BI & Data Storytelling** — Tableau, Power BI, and communicating insights to non-technical stakeholders
 - 🤖 **GenAI for Business** — where LLM systems create measurable ROI, not just impressive demos
@@ -387,7 +387,7 @@ Exploring the security layer of GenAI systems — how LLM applications break, le
 - 🛡️ LeetCode **Guardian badge** with a **2400+ rating**
 - ⭐ 3-Star Coder on CodeChef with 1600+ rating
 - 📄 Published researcher before graduating — ICISML 2026
-- 🎓 Doing an MBA and an MSc *at the same time* (yes, really)
+- 🎓 Doing an MBA and an MS *at the same time* (yes, really)
 - 🏆 Love solving complex system design and algorithmic challenges
 - 📚 Passionate about teaching AI/ML concepts to peers
 - ⚡ Can debug production issues at 3 AM (happened more than once!)

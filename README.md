@@ -25,6 +25,7 @@ I specialize in **cloud-native GenAI systems on AWS**, deploying **secure, cost-
 
 
 🔗 Portfolio: https://saiii.in
+
 🔗 GitHub: https://github.com/sairam3824 
 
 **Learn always. Build always.**
@@ -64,7 +65,7 @@ class AIEngineer:
             "🎯 Reduced AI pipeline latency by 30%",
             "⚡ Improved search efficiency by 45%",
             "🤖 Indexed 100+ research papers with vector DBs",
-            "🏅 4x Anthropic Academy certified + AWS, Oracle, Azure, IBM",
+            "🏅 10x Anthropic Academy certified, AWS, Oracle, Azure, IBM",
         ]
 ```
 
@@ -73,7 +74,7 @@ class AIEngineer:
 - 📄 **Published Research**: Orravyn Research Platform with LLM — ICISML 2026, Scopus-indexed AIP Conference Proceedings
 - 🎓 **Dual Postgrad Track**: MBA Business Analytics (BITS Pilani) + MS Data Science (IIIT Hyderabad)
 - 🌱 **Expertise**: GenAI, RAG Systems, LLMOps, AI Agents, LLMs (GPT, Claude, Gemini), Business Analytics, Cloud Architecture, System Design
-- 💼 **Certifications**: 4x Anthropic Academy | AWS Cloud Practitioner | Oracle GenAI Professional | Azure Data Fundamentals | IBM ML
+- 💼 **Certifications**: 10x Anthropic Academy | AWS Cloud Practitioner | Oracle GenAI Professional | Azure Data Fundamentals | IBM ML
 - 🏆 **Impact**: 30% latency reduction | 45% search efficiency boost | 92% medical imaging accuracy
 - 📚 **Philosophy**: *Learn Always, Build Always*
 
@@ -356,7 +357,7 @@ Exploring the security layer of GenAI systems — how LLM applications break, le
 - 🔬 **MS, Data Science** — IIIT Hyderabad *(2026–present)*
 - 💻 **B.Tech, Computer Science** — VIT-AP *(Class of 2026)*
 
-### 🤖 Anthropic Academy (4x Certified)
+### 🤖 Anthropic Academy (10x Certified)
 - 🏗️ **Building with the Claude API**
 - 🔌 **Introduction to Model Context Protocol (MCP)**
 - 🔬 **MCP: Advanced Topics**
